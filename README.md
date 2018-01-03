@@ -1,1 +1,3 @@
 # ProgUzytkowe
+
+Zmiany tymczasowe
